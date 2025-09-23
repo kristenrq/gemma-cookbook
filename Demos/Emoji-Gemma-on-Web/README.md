@@ -8,7 +8,7 @@ If you don't have a fine-tuned model, view the resources below.
 
 ![Alt text](./emoji-generator-web-app.gif)
 
-Preview the app on [Hugging Face](https://huggingface.co/spaces/Gemmaverse/gemmoji).
+Preview the app on [Hugging Face](https://huggingface.co/spaces/Gemmaverse/emoji-gemma).
 
 ## Resources
 
